@@ -1,0 +1,9 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, serif; color: #1a1a1a; line-height: 1.6; }
+header nav { display: flex; gap: 1.5rem; padding: 1rem 2rem; background: #0b2545; }
+header nav a { color: #fff; text-decoration: none; }
+.hero { padding: 4rem 2rem; text-align: center; background: #f4f1ec; }
+.cta { display: inline-block; margin-top: 1rem; padding: 0.75rem 1.5rem; background: #0b2545; color: #fff; text-decoration: none; }
+main { max-width: 900px; margin: 0 auto; padding: 2rem; }
+footer { padding: 1rem 2rem; text-align: center; font-size: 0.85rem; }
+form { display: flex; flex-direction: column; gap: 0.75rem; max-width: 500px; }
